@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-crnl2t.buyflowers.com.sg/sitemap.xml
